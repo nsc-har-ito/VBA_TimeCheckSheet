@@ -12,7 +12,8 @@
 チェックの結果を削除します。（タイムシートのデータは削除されません）
 
 -----
-実行前
-<img src="https://user-images.githubusercontent.com/63280513/85809003-8653c800-b791-11ea-8813-892d6761cff2.png" width="300">
-実行後
-<img src="https://user-images.githubusercontent.com/63280513/85808185-0f1d3480-b78f-11ea-99d6-97e5fcd3d1b7.png" width="300"> 
+実行前  
+<img src="https://user-images.githubusercontent.com/63280513/85809003-8653c800-b791-11ea-8813-892d6761cff2.png" width="500">  
+  
+実行後  
+<img src="https://user-images.githubusercontent.com/63280513/85808185-0f1d3480-b78f-11ea-99d6-97e5fcd3d1b7.png" width="500">   
