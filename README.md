@@ -9,4 +9,4 @@
 ### クリアボタン  
 チェックの結果を削除します。（タイムシートのデータは削除されません）
 
-<img src="https://user-images.githubusercontent.com/63280513/85808185-0f1d3480-b78f-11ea-99d6-97e5fcd3d1b7.png" width="500"> 
+<img src="" width="500"> <img src="https://user-images.githubusercontent.com/63280513/85808185-0f1d3480-b78f-11ea-99d6-97e5fcd3d1b7.png" width="500"> 
